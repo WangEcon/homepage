@@ -1,20 +1,20 @@
 relativeURLs = true
 googleAnalytics = "UA-159072578-1"
-title = "Hui Li"
+title = "Zhonghua Wang"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [author]
-name = "Hui Li"
+name = "Zhonghua Wang"
 homepage = "https://huili.netlify.app/"
 
 [params]
 institution = "School of Finance, Renmin University of China"
 shortbio = "Ph.D. candidate in Economics"
 logo = ""
-Email = "lihuieco@ruc.edu.cn"
+Email = "18401688233@163.com"
 
 [markup]
   [markup.highlight]
