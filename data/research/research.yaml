@@ -1,58 +1,32 @@
 workingpapers:
 
-- title: "Identification of Labor market power with Non-neutral Productivity" 
+- title: "中国的多维不平等测度：2002—2018年" 
   pdflink: "" 
   presscoverage:
-    - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
-      text: "Heng Yin"
-  book: "Working paper"
-  year: "2023." 
-
-- title: "Minimum wage and Labor market monopsony" 
-  pdflink: "" 
-  presscoverage:
-    - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
-      text: "Heng Yin"
-    - url: "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm"
-      text: "Xianqiang Zou"
-  book: "Working paper"
-  year: "2023." 
-
-- title: "Robot adoption and Labor market monopsony：Evidence from China" 
-  pdflink: "" 
-  presscoverage:
-    - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
-      text: "Heng Yin"
-    - url: "http://slhr.ruc.edu.cn/szdw/zzjs/ldjj/zxq/dde3adcbd9f5420baac832d3bb7801dc.htm"
-      text: "Xianqiang Zou"
+    - url: "http://sf.ruc.edu.cn/info/1229/8085.htm"
+      text: "岳希明"
   book: "Working paper"
   year: "2023." 
        
 publications:
 
-- title: "中国制造业技术进步方向的识别与估计"
-  pdflink: "https://kns.cnki.net/kcms2/article/abstract?v=qExbs-RUAL2XJbeQ0ZwQzNAwppAhJp3ewLc2Vkb6DtCitAWmisqgDJTYzOe50X6X4oWHdO_bbwLMRrBrwFSfpa6C40dZNyqGmzs6RW2tfbhnTE7-EuBPEQ==&uniplatform=NZKPT&language=gb"
+- title: "收入增长、收入差距与农村减贫"
+  pdflink: "https://kns.cnki.net/kcms2/article/abstract?v=zrtWY6fLGG5XqPh10xfdS9ky7qgZkUb2D-T3C3LzFWdsQnJEFT58In-R5cS4ppY45ymRmZZj_wkS4n_1V2tA5jaEmW8cMZhLqoQ0yR_pOOEgSLlfYS4w03GnjrhAQAwA&uniplatform=NZKPT&language=gb"
   presscoverage:
-    - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
-      text: "尹恒"
-    - url: ""
-      text: "张道远。"
-  book: "《经济研究》"
-  year: "2023年第4期。" 
+    - url: "http://sf.ruc.edu.cn/info/1229/8085.htm"
+      text: "岳希明"
+  book: "《中国工业经济》"
+  year: "2021年第9期。" 
   links:
-    - url: "https://huiliecon.github.io/Papers/2023,biased%20technology%20change.pdf"
-      text: "Published version"
-    - url: "https://github.com/huiliecon/huiliecon.github.io/blob/09db05df0cb38fae1e995c530861cd4e1ec4bac3/Papers/slides_biased_technology_change.pdf"
-      text: "Slides"
   abstract: >
-     技术进步方向是决定经济增长和要素分配的关键因素之一。然而目前学界对于技术进步方向的定量研究仍然十分欠缺。本文尝试在生产函数中同时引入希克斯中性生产率和劳动增强型生产率，直接在微观层面识别和估计技术进步方向。综合使用1999—2016年中国工业企业数据与全国税收调查数据的估计结果显示，样本期内中国制造业技术进步具有明显的偏向性特征: 劳动增强型生产率增速保持稳定，年均增长10% ，带动产出年均增长1.0%;希克斯中性生产率带动产出年均增长2.5%，但金融危机过后尤其是2011年后增速明显放缓。这意味着随着时间演进，有偏技术进步对产出的相对贡献不断提高，并在样本后期成为产出增长的主要源泉。估计结果还显示，制造业效率的提高主要源于企业自身成长，行业内资源配置的贡献有限，配置效率仍然存在较大改善空间。本文刻画了21世纪近20年中国制造业技术变迁的整体图景，可以为新常态下推动技术创新、促进高质量发展的政策选择提供重要的经验支撑。
-
-- title: "Hometown Favoritism in Traffic Citations: Evidence from China"
-  pdflink: "https://www.sciencedirect.com/science/article/abs/pii/S016517652300246X"
+     利用中国家庭收入调查(CHIP)农村住户数据,本文对1988—2018年中国农村贫困状况演变以及经济增长过程中收入增长、收入差距对减贫的影响进行综合考察。研究发现:改革开放以来农村贫困大幅减缓,减贫动因主要是收入增长,收入差距扩大部分抵消了增长的减贫效应。但随着减贫进程的推进,增长因素对减贫的贡献不断减弱,分配因素的影响愈显突出。对于深度贫困人口而言,分配因素对其贫困状态的影响更为重要。分收入来源的实证分析显示,研究期内,工资性收入逐渐成为农村居民的首要收入来源,对农村减贫的贡献迅速上升;政府转移净收入对减贫的贡献近年来明显增加,伴随着贫困程度的加深,其减贫作用也在增强。益贫式增长指数的测算结果表明,贫困人口主要从经济增长的涓滴效应中受益,经济增长方式尚需向益贫式增长转变。
+     
+- title: "国有企业在税收增长和逆周期调节中的贡献"
+  pdflink: "https://kns.cnki.net/kcms2/article/abstract?v=zrtWY6fLGG48FvFP1lwrgauF162n4U9etUxLcb8McxmIywg3WuDA_G9kqBSUc92sLNaWk6KZ2VzmrvsOMcjrKxPvE93ztAN1mNLU5rBlQ7XI17CUHwU7Ow0aceGYW0iR&uniplatform=NZKPT&language=gb"
   presscoverage:
     - url: ""
-      text: "Min Dai"
-  book: "Economics Letters"
-  year: "June,2023."
+      text: "白彦锋"
+  book: "《税务研究》"
+  year: "2019年第11期。" 
   abstract: >
-     Based on a large sample of waterway traffic citations in China, our analysis reveals that local firms face fines that are 4.3% lower for the same offenses and are more prone to receiving lighter punishments. The leniency in law enforcement is more pronounced in districts with greater social capital and better fiscal conditions. These results indicate that even appointed grassroots officials could engage in hometown favoritism.
+    国有企业由于其国有的产权性质,并不单纯以追求利润最大化为目标。因此,一方面,国有企业避税动机可能较弱,本文通过建立模型与实证分析表明,国有企业的平均税负高于非国有企业的平均税负,当国有企业经营效益较好时,将推动税收较快增长;另一方面,国有企业承担着支持国家经济发展和社会稳定的责任,在经济增速放缓或经济下行期,为支持政府扩大支出、促进社会经济发展,国有企业可能多缴税,表现出"逆经济周期的支持效应",本文通过实证研究也验证了这一效应的存在。基于以上研究结果,本文提出应更客观公正地评价国有企业的作用。在预期逆周期调节加码将成为接下来我国政策主基调的要求下,国有企业进一步深化改革的重点,不是在所有制或产权,而是要推动国有资本做强、做优、做大,并通过完善现代企业制度,提升企业管理能力,以更好发挥国有企业在经济社会中的特有作用。
