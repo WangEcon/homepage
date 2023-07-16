@@ -1,13 +1,41 @@
 workingpapers:
 
+- title: "Population Aging, Public Pensions and Income Inequality" 
+  pdflink: "" 
+  presscoverage:
+    - url: "http://sf.ruc.edu.cn/info/1229/8085.htm"
+      text: "Ximing Yue"
+  book: "Working paper"
+  year: "2023." 
+  
 - title: "中国的多维不平等测度：2002—2018年" 
   pdflink: "" 
   presscoverage:
+    - url: "https://isbf.sysu.edu.cn/zh-hans/teacher/273"
+      text: "徐静"
     - url: "http://sf.ruc.edu.cn/info/1229/8085.htm"
       text: "岳希明"
   book: "Working paper"
   year: "2023." 
-       
+
+- title: "收入不平等测度的规范阐释" 
+  pdflink: "" 
+  presscoverage:
+    - url: "https://isbf.sysu.edu.cn/zh-hans/teacher/273"
+      text: "徐静"
+    - url: "http://sf.ruc.edu.cn/info/1229/8085.htm"
+      text: "岳希明"
+  book: "Working paper"
+  year: "2023." 
+
+- title: "劳动市场垄断与企业间工资不平等" 
+  pdflink: "" 
+  presscoverage:
+    - url: "https://huili.netlify.app/"
+      text: "李辉"
+  book: "Working paper"
+  year: "2023." 
+  
 publications:
 
 - title: "收入增长、收入差距与农村减贫"
