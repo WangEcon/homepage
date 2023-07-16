@@ -16,7 +16,7 @@ E-mail: 18401688233@163.com
 
 [收入增长、收入差距与农村减贫](https://kns.cnki.net/kcms2/article/abstract?v=zrtWY6fLGG5XqPh10xfdS9ky7qgZkUb2D-T3C3LzFWdsQnJEFT58In-R5cS4ppY45ymRmZZj_wkS4n_1V2tA5jaEmW8cMZhLqoQ0yR_pOOEgSLlfYS4w03GnjrhAQAwA&uniplatform=NZKPT&language=gb)，和[岳希明](http://sf.ruc.edu.cn/info/1229/8085.htm)，<i><strong>《中国工业经济》，2021年第9期</font></strong></i></font>。
 
-[国有企业在税收增长和逆周期调节中的贡献](https://kns.cnki.net/kcms2/article/abstract?v=zrtWY6fLGG48FvFP1lwrgauF162n4U9etUxLcb8McxmIywg3WuDA_G9kqBSUc92sLNaWk6KZ2VzmrvsOMcjrKxPvE93ztAN1mNLU5rBlQ7XI17CUHwU7Ow0aceGYW0iR&uniplatform=NZKPT&language=gb), with 白彦锋，<i><strong>《税务研究》，2019年第11期</font></strong></i></font>。
+[国有企业在税收增长和逆周期调节中的贡献](https://kns.cnki.net/kcms2/article/abstract?v=zrtWY6fLGG48FvFP1lwrgauF162n4U9etUxLcb8McxmIywg3WuDA_G9kqBSUc92sLNaWk6KZ2VzmrvsOMcjrKxPvE93ztAN1mNLU5rBlQ7XI17CUHwU7Ow0aceGYW0iR&uniplatform=NZKPT&language=gb), 和 白彦锋，<i><strong>《税务研究》，2019年第11期</font></strong></i></font>。
 
 ### Working Papers
 
