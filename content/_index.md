@@ -28,6 +28,6 @@ The Redistributive Effect of Fiscal Policy in China, with [Ximing Yue](http://sf
 
 收入不平等测度的规范阐释, 和[徐静](https://isbf.sysu.edu.cn/zh-hans/teacher/273)，[岳希明](http://sf.ruc.edu.cn/info/1229/8085.htm), September,2023.
 
-劳动市场垄断与企业间工资不平等, 和[李辉](https://huili.netlify.app/), March,2023.
+劳动市场垄断与企业间工资不平等, 和[李辉](https://huili.netlify.app/), [尹恒](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm), March,2023.
 
-Analyzing Redistributive Efficiency of Social Security in China: 1988-2018, with [Su Wang](https://eco.muc.edu.cn/info/1373/2384.htm), [Jing Xu](https://isbf.sysu.edu.cn/zh-hans/teacher/273), [Ximing Yue](http://sf.ruc.edu.cn/info/1229/8085.htm), September, 2023.
+Analyzing Redistributive Efficiency of Social Security in China: 1988-2018, with [Shu Wang](https://eco.muc.edu.cn/info/1373/2384.htm), [Jing Xu](https://isbf.sysu.edu.cn/zh-hans/teacher/273), [Ximing Yue](http://sf.ruc.edu.cn/info/1229/8085.htm), September, 2023.
