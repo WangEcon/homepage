@@ -21,6 +21,7 @@ E-mail: 18401688233@163.com
 ### Working Papers
 
 Population Aging, Public Pensions and Income Inequality, with [Ximing Yue](http://sf.ruc.edu.cn/info/1229/8085.htm), July,2023.
+The Redistributive Effect of Fiscal Policy in China, with [Ximing Yue](http://sf.ruc.edu.cn/info/1229/8085.htm), August, 2023.
 
 中国的多维不平等测度：2002—2018年, 和[徐静](https://isbf.sysu.edu.cn/zh-hans/teacher/273)，[岳希明](http://sf.ruc.edu.cn/info/1229/8085.htm), August,2023.
 
