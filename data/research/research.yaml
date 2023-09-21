@@ -1,13 +1,5 @@
 workingpapers:
 
-- title: "Population Aging, Public Pensions and Income Inequality" 
-  pdflink: "" 
-  presscoverage:
-    - url: "http://sf.ruc.edu.cn/info/1229/8085.htm"
-      text: "Ximing Yue"
-  book: "Working paper"
-  year: "2023." 
-  
 - title: "中国的多维不平等测度：2002—2018年" 
   pdflink: "" 
   presscoverage:
@@ -15,6 +7,24 @@ workingpapers:
       text: "徐静"
     - url: "http://sf.ruc.edu.cn/info/1229/8085.htm"
       text: "岳希明"
+  book: ""
+  year: "2023." 
+
+- title: "Population Aging, Public Pensions and Income Inequality" 
+  pdflink: "" 
+  presscoverage:
+    - url: "https://isbf.sysu.edu.cn/zh-hans/teacher/273"
+      text: "Jing Xu"
+    - url: "http://sf.ruc.edu.cn/info/1229/8085.htm"
+      text: "Ximing Yue"
+  book: ""
+  year: "2023." 
+  
+- title: "The Redistributive Effect of Fiscal Policy in China" 
+  pdflink: "" 
+  presscoverage:
+    - url: "http://sf.ruc.edu.cn/info/1229/8085.htm"
+      text: "Ximing Yue"
   book: ""
   year: "2023." 
 
@@ -33,9 +43,23 @@ workingpapers:
   presscoverage:
     - url: "https://huili.netlify.app/"
       text: "李辉"
+    - url: "http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm"
+      text: "尹恒"
   book: "Working paper"
   year: "2023." 
-  
+
+- title: "Analyzing Redistributive Efficiency of Social Security in China: 1988-2018" 
+  pdflink: "" 
+  presscoverage:
+    - url: "https://eco.muc.edu.cn/info/1373/2384.htm"
+      text: "王庶"
+    - url: "https://isbf.sysu.edu.cn/zh-hans/teacher/273"
+      text: "徐静"
+    - url: "http://sf.ruc.edu.cn/info/1229/8085.htm"
+      text: "岳希明"
+  book: ""
+  year: "2023." 
+
 publications:
 
 - title: "收入增长、收入差距与农村减贫"
