@@ -29,11 +29,11 @@ Why Has the Redistributive Efficiency of Chinese Government Transfers Improved o
 
 The Redistributive Effect of Fiscal Policy in China
 (with Ximing Yue), August, 2023.
-<i><strong> Prepared for the Handbook on Inequality in China, edited by Bjorn Gustafsson and Xiuna Yang.
+<i><strong> Prepared for the Handbook on Inequality in China, edited by Bjorn Gustafsson and Xiuna Yang.</font></strong></i></font>
 
 中国多维不平等的规范测度， 和 徐静、岳希明。
 
-收入不平等测度的规范阐释与福利分析， 和岳希明。
+收入不平等测度的规范阐释与福利分析， 和 岳希明。
 
 劳动市场垄断与企业间工资不平等， 和 李辉、邹先强、尹恒。
 
