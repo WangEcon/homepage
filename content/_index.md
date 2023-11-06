@@ -20,14 +20,20 @@ E-mail: 18401688233@163.com
 
 ### Working Papers
 
-Population Aging, Public Pensions and Income Inequality, with [Ximing Yue](http://sf.ruc.edu.cn/info/1229/8085.htm), July,2023.
+Population Aging, Public Pensions and Income Inequality
+(with Ximing Yue), 
+<i><strong> R&R at Economic and Political Studies.</font></strong></i></font>
 
-The Redistributive Effect of Fiscal Policy in China, with [Ximing Yue](http://sf.ruc.edu.cn/info/1229/8085.htm), August, 2023.
+Why Has the Redistributive Efficiency of Chinese Government Transfers Improved over the Past 30 Years?
+(with Shu Wang and Jing Xu)
 
-中国的多维不平等测度：2002—2018年, 和[徐静](https://isbf.sysu.edu.cn/zh-hans/teacher/273)，[岳希明](http://sf.ruc.edu.cn/info/1229/8085.htm), August,2023.
+The Redistributive Effect of Fiscal Policy in China
+(with Ximing Yue), August, 2023.
+<i><strong> Prepared for the Handbook on Inequality in China, edited by Bjorn Gustafsson and Xiuna Yang.
 
-收入不平等测度的规范阐释, 和[徐静](https://isbf.sysu.edu.cn/zh-hans/teacher/273)，[岳希明](http://sf.ruc.edu.cn/info/1229/8085.htm), September,2023.
+中国多维不平等的规范测度， 和 徐静、岳希明。
 
-劳动市场垄断与企业间工资不平等, 和[李辉](https://huili.netlify.app/), [尹恒](http://nads.ruc.edu.cn/jgsz/qzjs/js/c2ff8cbc92764c258df5a044a68b18bd.htm), March,2023.
+收入不平等测度的规范阐释与福利分析， 和岳希明。
 
-Analyzing Redistributive Efficiency of Social Security in China: 1988-2018, with [Shu Wang](https://eco.muc.edu.cn/info/1373/2384.htm), [Jing Xu](https://isbf.sysu.edu.cn/zh-hans/teacher/273), [Ximing Yue](http://sf.ruc.edu.cn/info/1229/8085.htm), September, 2023.
+劳动市场垄断与企业间工资不平等， 和 李辉、邹先强、尹恒。
+
